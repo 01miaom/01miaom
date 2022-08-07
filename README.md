@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>pp</title>
-</head>
-<body>
-    <h1>personal</h1>
-
-</body>
-</html>
 
 <!--
 **01miaom/01miaom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
